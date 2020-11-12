@@ -1,3 +1,3 @@
 # hello-world
-Ideas and resources
+Ideas and resources.
 I'm learning how to use GitHub!
